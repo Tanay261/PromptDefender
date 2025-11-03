@@ -1,0 +1,21 @@
+Summarize the difference between precision and recall with a short example.
+Write a polite email requesting a meeting next Wednesday.
+Explain the concept of TF-IDF and give a short code example.
+Refactor the following Python function to be more readable (function attached).
+Create a unit test (pytest) for this function that checks edge cases.
+Explain how HTTP status codes 200, 301, 404, and 500 differ.
+List 5 ways to improve SQL query performance for large joins.
+Write a product spec outline for a mobile habit tracker app.
+Recommend three Python libraries for data validation and explain tradeoffs.
+Provide a study plan for learning FastAPI in two weeks.
+Give a short checklist for securing a Linux server (non-destructive).
+Convert this list of requirements into user stories for agile planning.
+Explain the difference between supervised and unsupervised learning.
+Create sample CSV schema for customer records with column types.
+Suggest A/B test ideas for optimizing landing page conversions.
+Help me write an agenda for a 30-minute sprint planning meeting.
+Explain what CORS is and how to enable it in FastAPI.
+Provide examples of meaningful commit messages for feature work.
+Explain how to log user input safely without capturing secrets.
+Give three interview-style SQL exercises for an intermediate role.
+Describe how to use pytest fixtures for setting up DB state in tests.

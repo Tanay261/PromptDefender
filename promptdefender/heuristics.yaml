@@ -1,0 +1,44 @@
+# Keep rules human-readable; each has: id, label, description, patterns (regex or plain), weight
+rules:
+  - id: SYS_OVERRIDE_1
+    label: system-override
+    description: Attempts to ignore or revoke prior instructions
+    patterns:
+      - (?i)\b(ignore (all|any|the) (previous|prior) (instructions|rules))\b
+      - (?i)\b(disregard|forget) (previous|prior) (instructions|context)\b
+    weight: 25
+
+  - id: ROLEPLAY_1
+    label: role-bypass
+    description: Try to switch roles or “act as” a special entity to bypass policy
+    patterns:
+      - (?i)\b(act as|you are now|pretend to be)\b
+    weight: 10
+
+  - id: TOOL_ABUSE_1
+    label: tool-abuse
+    description: Directives to call tools or exfiltrate via functions/filesystem
+    patterns:
+      - (?i)\b(execute|run|spawn|call) (tool|function|shell|command)\b
+      - (?i)\b(/etc/passwd|id_rsa|.ssh|system32|C:\\\\Windows)\b
+    weight: 20
+
+  - id: OBFUSCATION_1
+    label: obfuscation
+    description: Intent to evade filters by encoding/transforming the prompt
+    patterns:
+      - (?i)\b(base64|rot13|hex|url-?encode|unicode escape)\b
+      - (?i)\b(step-by-step to bypass|hidden instructions)\b
+    weight: 10
+
+  - id: DATA_EXFIL_1
+    label: data-exfil
+    description: Attempts to exfiltrate secrets, credentials or training data
+    patterns:
+      - (?i)\b(api[_-]?key|secret|password|token)\b
+      - (?i)\b(print your system prompt|reveal hidden (rules|prompt))\b
+    weight: 25
+thresholds:
+  heuristic_alert: 20   # total heuristic weight that triggers suspicion
+  deny: 60              # deny if final risk >= 60
+  sanitize: 30          # sanitize if final risk >= 30

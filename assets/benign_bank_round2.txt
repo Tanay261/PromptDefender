@@ -1,0 +1,126 @@
+Summarize the difference between precision and recall with a short example.
+summarize the difference between precision and recall with a short example.
+### Summarize the difference between precision and recall with a short example. ###
+Summarize the difference between precision and recall ​  with a short example.	
+SUMMARIZE THE DIFFERENCE BETWEEN PRECISION AND RECALL WITH A SHORT EXAMPLE.
+Summarize The Difference Between Precision And Recall With A Short Example.
+Write a polite email requesting a meeting next Wednesday.
+write a polite email requesting a meeting next wednesday.
+Write a polite email	 requesting a meeting next Wednesday.
+Write A Polite Email Requesting A Meeting Next Wednesday.
+### Write a polite email requesting a meeting next Wednesday. ###
+WRITE A POLITE EMAIL REQUESTING A MEETING NEXT WEDNESDAY.
+Explain the concept of TF-IDF and give a short code example.
+Explain The Concept Of Tf-Idf And Give A Short Code Example.
+### Explain the concept of TF-IDF and give a short code example. ###
+EXPLAIN THE CONCEPT OF TF-IDF AND GIVE A SHORT CODE EXAMPLE.
+Explain the concept of TF-IDF and give a ​  short code example.	
+explain the concept of tf-idf and give a short code example.
+Refactor the following Python function to be more readable (function attached).
+REFACTOR THE FOLLOWING PYTHON FUNCTION TO BE MORE READABLE (FUNCTION ATTACHED).
+Refactor the   following Python function to be more readable (function attached).  
+refactor the following python function to be more readable (function attached).
+Refactor The Following Python Function To Be More Readable (Function Attached).
+### Refactor the following Python function to be more readable (function attached). ###
+Create a unit test (pytest) for this function that checks edge cases.
+create a unit test (pytest) for this function that checks edge cases.
+Create a   unit test (pytest) for this function that	 checks edge cases.
+Create A Unit Test (Pytest) For This Function That Checks Edge Cases.
+CREATE A UNIT TEST (PYTEST) FOR THIS FUNCTION THAT CHECKS EDGE CASES.
+### Create a unit test (pytest) for this function that checks edge cases. ###
+Explain how HTTP status codes 200, 301, 404, and 500 differ.
+Explain How Http Status Codes 200, 301, 404, And 500 Differ.
+Explain how HTTP status codes 200, 301, 404,	 and   500 differ.
+### Explain how HTTP status codes 200, 301, 404, and 500 differ. ###
+EXPLAIN HOW HTTP STATUS CODES 200, 301, 404, AND 500 DIFFER.
+explain how http status codes 200, 301, 404, and 500 differ.
+List 5 ways to improve SQL query performance for large joins.
+### List 5 ways to improve SQL query performance for large joins. ###
+List 5 Ways To Improve Sql Query Performance For Large Joins.
+list 5 ways to improve sql query performance for large joins.
+List 5 ways ​  to improve SQL query performance	 for large joins.
+LIST 5 WAYS TO IMPROVE SQL QUERY PERFORMANCE FOR LARGE JOINS.
+Write a product spec outline for a mobile habit tracker app.
+Write a   product spec   outline for a mobile habit tracker app.
+write a product spec outline for a mobile habit tracker app.
+Write A Product Spec Outline For A Mobile Habit Tracker App.
+WRITE A PRODUCT SPEC OUTLINE FOR A MOBILE HABIT TRACKER APP.
+### Write a product spec outline for a mobile habit tracker app. ###
+Recommend three Python libraries for data validation and explain tradeoffs.
+RECOMMEND THREE PYTHON LIBRARIES FOR DATA VALIDATION AND EXPLAIN TRADEOFFS.
+Recommend Three Python Libraries For Data Validation And Explain Tradeoffs.
+Recommend three	 Python libraries for data ​  validation and explain tradeoffs.
+### Recommend three Python libraries for data validation and explain tradeoffs. ###
+recommend three python libraries for data validation and explain tradeoffs.
+Provide a study plan for learning FastAPI in two weeks.
+provide a study plan for learning fastapi in two weeks.
+### Provide a study plan for learning FastAPI in two weeks. ###
+Provide a study plan	 for ​  learning FastAPI in two weeks.
+PROVIDE A STUDY PLAN FOR LEARNING FASTAPI IN TWO WEEKS.
+Provide A Study Plan For Learning Fastapi In Two Weeks.
+Give a short checklist for securing a Linux server (non-destructive).
+Give a short checklist   for securing a	 Linux server (non-destructive).
+Give A Short Checklist For Securing A Linux Server (Non-Destructive).
+### Give a short checklist for securing a Linux server (non-destructive). ###
+give a short checklist for securing a linux server (non-destructive).
+GIVE A SHORT CHECKLIST FOR SECURING A LINUX SERVER (NON-DESTRUCTIVE).
+Convert this list of requirements into user stories for agile planning.
+Convert this list of requirements into user ​  stories for   agile planning.
+convert this list of requirements into user stories for agile planning.
+Convert This List Of Requirements Into User Stories For Agile Planning.
+CONVERT THIS LIST OF REQUIREMENTS INTO USER STORIES FOR AGILE PLANNING.
+### Convert this list of requirements into user stories for agile planning. ###
+Explain the difference between supervised and unsupervised learning.
+explain the difference between supervised and unsupervised learning.
+### Explain the difference between supervised and unsupervised learning. ###
+Explain The Difference Between Supervised And Unsupervised Learning.
+EXPLAIN THE DIFFERENCE BETWEEN SUPERVISED AND UNSUPERVISED LEARNING.
+Explain the difference between supervised and unsupervised	 learning.
+Create sample CSV schema for customer records with column types.
+create sample csv schema for customer records with column types.
+Create sample CSV schema for customer   records with	 column types.
+CREATE SAMPLE CSV SCHEMA FOR CUSTOMER RECORDS WITH COLUMN TYPES.
+### Create sample CSV schema for customer records with column types. ###
+Create Sample Csv Schema For Customer Records With Column Types.
+Suggest A/B test ideas for optimizing landing page conversions.
+Suggest A/B test ideas for optimizing   landing page conversions.
+SUGGEST A/B TEST IDEAS FOR OPTIMIZING LANDING PAGE CONVERSIONS.
+### Suggest A/B test ideas for optimizing landing page conversions. ###
+suggest a/b test ideas for optimizing landing page conversions.
+Suggest A/B Test Ideas For Optimizing Landing Page Conversions.
+Help me write an agenda for a 30-minute sprint planning meeting.
+Help Me Write An Agenda For A 30-Minute Sprint Planning Meeting.
+help me write an agenda for a 30-minute sprint planning meeting.
+### Help me write an agenda for a 30-minute sprint planning meeting. ###
+Help me write an agenda for a 30-minute sprint ​  planning meeting. ​ 
+HELP ME WRITE AN AGENDA FOR A 30-MINUTE SPRINT PLANNING MEETING.
+Explain what CORS is and how to enable it in FastAPI.
+explain what cors is and how to enable it in fastapi.
+Explain what CORS is   and   how to enable it in FastAPI.
+Explain What Cors Is And How To Enable It In Fastapi.
+### Explain what CORS is and how to enable it in FastAPI. ###
+EXPLAIN WHAT CORS IS AND HOW TO ENABLE IT IN FASTAPI.
+Provide examples of meaningful commit messages for feature work.
+PROVIDE EXAMPLES OF MEANINGFUL COMMIT MESSAGES FOR FEATURE WORK.
+provide examples of meaningful commit messages for feature work.
+Provide examples of meaningful commit messages for	 feature work.
+Provide Examples Of Meaningful Commit Messages For Feature Work.
+### Provide examples of meaningful commit messages for feature work. ###
+Explain how to log user input safely without capturing secrets.
+explain how to log user input safely without capturing secrets.
+Explain How To Log User Input Safely Without Capturing Secrets.
+### Explain how to log user input safely without capturing secrets. ###
+Explain how to log user   input safely without	 capturing secrets.
+EXPLAIN HOW TO LOG USER INPUT SAFELY WITHOUT CAPTURING SECRETS.
+Give three interview-style SQL exercises for an intermediate role.
+Give three interview-style   SQL exercises for an intermediate role.
+Give Three Interview-Style Sql Exercises For An Intermediate Role.
+### Give three interview-style SQL exercises for an intermediate role. ###
+GIVE THREE INTERVIEW-STYLE SQL EXERCISES FOR AN INTERMEDIATE ROLE.
+give three interview-style sql exercises for an intermediate role.
+Describe how to use pytest fixtures for setting up DB state in tests.
+Describe how to use pytest fixtures for ​  setting up DB state in tests.	
+Describe How To Use Pytest Fixtures For Setting Up Db State In Tests.
+describe how to use pytest fixtures for setting up db state in tests.
+### Describe how to use pytest fixtures for setting up DB state in tests. ###
+DESCRIBE HOW TO USE PYTEST FIXTURES FOR SETTING UP DB STATE IN TESTS.
